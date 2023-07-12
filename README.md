@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there, I am Georg 👋 </h1>
+<h3 align="center">a Full-Stack Software Developer from Germany
+  
+<p>
+  I am a passionate and skilled developer with more than 15 years of experience in software development. My main focus are Java and all topics related to it, like Quarkus, Spring Boot, Jakarta EE, .... 
+  On the frontend side I have expertise in Angular, JQuery, Bootstrap, HTML and CSS.
+</p>  
 
-<!--
-**georgleber/georgleber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  In my spare time I do:
+  <ul>
+    <li>Trecking in The Alps</li>
+    <li>Learning to bake my own bread</li>
+    <li>Flight simulation (X-Plane 12/IVAO)</li>
+    <li>Working on Open Source projects</li>
+  </ul>
+</p>
 
-Here are some ideas to get you started:
+### Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
