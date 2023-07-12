@@ -35,6 +35,10 @@
 
 ### Get in touch :loudspeaker:
 
+- [LinkedIn](https://www.linkedin.com/in/georgleber/) 
+- [My Website](https://georgleber.github.io)
+- [E-Mail](mailto:info@georg-leber.de)
+
 
 
 ### Some statistics :chart_with_upwards_trend:
@@ -42,3 +46,5 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgleber&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 [![My Stack Overflow Stats](https://so-stats.vercel.app/api?user=119855)](https://github.com/kurt-liao/so-stats)
+
+![](https://visitor-badge.lithub.cc/badge?page_id=github.com/georgleber)
