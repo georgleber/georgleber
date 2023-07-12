@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Georg 👋 </h1>
-<h3 align="center">a Full-Stack Software Developer from Germany
+<h3 align="center">a Full-Stack Software Developer from Germany</h3>
   
 <p>
   I am a passionate and skilled developer with more than 15 years of experience in software development. My main focus are Java and all topics related to it, like Quarkus, Spring Boot, Jakarta EE, .... 
